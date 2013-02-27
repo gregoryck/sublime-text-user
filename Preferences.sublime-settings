@@ -1,0 +1,18 @@
+{
+	"auto_complete_delay": 20,
+	"caret_style": "wide",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_face": "DejaVu Sans Mono",
+	"font_size": 14.0,
+	"ignored_packages":
+	[
+		"Vintage",
+		"SublimeBlockCursor",
+		"SVN",
+		"SublimeCodeIntel"
+	],
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"vintage_start_in_command_mode": true,
+	"detect_slow_plugins": false
+}
