@@ -87,6 +87,21 @@
     {"keys": ["ctrl+a"], 
      "command": "move_to", 
      "args": {"to": "bol", "extend": false}
+    },
+    {
+    "command": "navigate_to_definition",
+    "keys": ["super+t", "super+t"]
+    },
+    {
+    "command": "navigate_to_definition",
+    "keys": ["super+shift+period"]
+    },
+    {
+    "command": "search_for_definition",
+    "keys": ["super+t", "super+y"]
+    },
+    {
+    "command": "jump_back",
+    "keys": ["super+t", "super+b"]
     }
-
 ]
